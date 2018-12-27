@@ -1,0 +1,38 @@
+.image-container {
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 10%;
+
+}
+
+.cat-image {
+  width: 22%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body-top {
+  background: #f09a98;
+
+}
+
+.body-bottom {
+  text-align: center;
+  position: relative;
+  bottom: 163px;
+  background: white;
+  padding-top: 4%;
+}
+
+.body-bottom h2 {
+  font-size: 54px;
+}
+
+.body-bottom p {
+  font-style: italic;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
